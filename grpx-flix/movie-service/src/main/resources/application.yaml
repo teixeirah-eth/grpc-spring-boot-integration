@@ -1,0 +1,7 @@
+grpc:
+  server:
+    port: 7575
+
+spring:
+  jpa:
+    defer-datasource-initialization: true
